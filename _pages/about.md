@@ -15,6 +15,7 @@ redirect_from:
 {% endif %}
 {% assign url = gsDataBaseUrl | append: "google-scholar-stats/gs_data_shieldsio.json" %}
 
+
 <span class='anchor' id='about-me'></span>
 
 I am a BSc student in Data Science and Big Data Technology at The Hong Kong University of Science and Technology (Guangzhou), with a GPA of 3.979/4.300 (Rank: 1/137) and on the Dean's List for three semesters.

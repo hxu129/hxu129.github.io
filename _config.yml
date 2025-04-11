@@ -6,9 +6,10 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hua Xu"
+
+title                    : "Hua XU"
 description              : "Data Science and Big Data Technology Student at The Hong Kong University of Science and Technology (Guangzhou)"
-repository               : "RayeRen/acad-homepage.github.io"
+repository               : "hxu129/hxu129.github.io"
 google_scholar_stats_use_cdn : true
 
 # google analytics
@@ -21,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
-  name             : "Hua Xu"
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
+  name             : "Hua XU"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
-  location         : "Guangzhou, China"
+  location         : "Gaungzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   email            : "hxu401@connect.hkust-gz.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -37,7 +38,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "https://github.com/hxu129"
   google_plus      :
   keybase          :
   instagram        :
@@ -45,7 +46,7 @@ author:
   lastfm           :
   linkedin         : # e.g., "linkedin username"
   dblp             : # e.g., "https://dblp.org/pid/xx/xxxx.html"
-  orcid            : # e.g., "https://orcid.org/xxxx"
+  orcid            : "https://orcid.org/0009-0007-4751-5393"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
