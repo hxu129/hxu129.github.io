@@ -8,7 +8,7 @@
 # Site Settings
 
 title                    : "Hua XU"
-description              : "Data Science and Big Data Technology Student at The Hong Kong University of Science and Technology (Guangzhou)"
+description              : "I'm a 2nd year UG student at The Hong Kong University of Science and Technology (Guangzhou), majoring in Data Science and Big Data Technology."
 repository               : "hxu129/hxu129.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -24,8 +24,8 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 author:
   googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   name             : "Hua XU"
-  avatar           : "images/android-chrome-512x512.png"
-  bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
+  avatar           : "images/face-512x512.png"
+  bio              : "HKUST(GZ)"
   location         : "Guangzhou, China"
   employer         :
   pubmed           : 
