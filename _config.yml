@@ -6,8 +6,9 @@
 # `jekyll serve`. If you change this file, please restart the server process.
 
 # Site Settings
-title                    : "Hua XU's Homepage"
-description              : "I'm a Year 2 undergraduate student at HKUST(GZ)"
+
+title                    : "Hua XU"
+description              : "Data Science and Big Data Technology Student at The Hong Kong University of Science and Technology (Guangzhou)"
 repository               : "hxu129/hxu129.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -21,13 +22,13 @@ baidu_site_verification  :  # get baidu_site_verification from https://ziyuan.ba
 
 # Site Author
 author:
+  googlescholar    : # "https://scholar.google.com/citations?user=YOUR_GOOGLE_SCHOLAR_ID"
   name             : "Hua XU"
   avatar           : "images/android-chrome-512x512.png"
   bio              : "The Hong Kong University of Science and Technology (Guangzhou)"
   location         : "Gaungzhou, China"
   employer         :
   pubmed           : 
-  googlescholar    : 
   email            : "hxu401@connect.hkust-gz.edu.cn"
   researchgate     :  # e.g., "https://www.researchgate.net/profile/yourprofile"
   uri              :
