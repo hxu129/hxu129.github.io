@@ -1,3 +1,4 @@
+# Jekyll build files
 _site/
 .jekyll-cache/
 .jekyll-metadata
@@ -17,7 +18,6 @@ __pycache__/
 
 # Personal materials
 Materials/
-images/face-512x512.png
 
 # System files
 .DS_Store
@@ -36,4 +36,8 @@ $RECYCLE.BIN/
 
 # Build related
 push.sh
-.DS_Store
+Gemfile.lock
+
+# Logs
+*.log
+logs/
