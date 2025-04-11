@@ -1,3 +1,39 @@
 _site/
+.jekyll-cache/
+.jekyll-metadata
+.sass-cache/
+
+# Bundle files
+.bundle/
+vendor/
+
+# Python virtual environment
+web/
+venv/
+env/
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Personal materials
+Materials/
+images/face-512x512.png
+
+# System files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# Editor files
+*.swp
+*~
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Build related
 push.sh
 .DS_Store
