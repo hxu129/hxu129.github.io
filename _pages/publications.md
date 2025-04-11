@@ -1,4 +1,8 @@
-123124
+---
+layout: archive
+title: "Publications"
+permalink: /publications/
+author_profile: true
+---
 
-
-This is only for testing
+{% include_relative sections/publications.md %} 
