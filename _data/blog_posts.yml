@@ -1,0 +1,16 @@
+# Recent blog posts data
+posts:
+  - title: "Machine Learning for Recommender Systems"
+    url: "https://hxu129.github.io/blogs/machine-learning-recommender-systems"
+    date: 2024-05-15
+    summary: "An exploration of how machine learning algorithms are revolutionizing recommender systems in e-commerce and content platforms."
+
+  - title: "Understanding Transformers in Natural Language Processing"
+    url: "https://hxu129.github.io/blogs/transformers-nlp"
+    date: 2024-04-22
+    summary: "A deep dive into transformer architecture and how it has changed the landscape of natural language processing tasks."
+
+  - title: "Computer Vision Applications in Healthcare"
+    url: "https://hxu129.github.io/blogs/computer-vision-healthcare"
+    date: 2024-03-18
+    summary: "How computer vision techniques are being applied in healthcare for diagnostic imaging, patient monitoring, and more." 

@@ -22,6 +22,8 @@ redirect_from:
 
 {% include_relative sections/news.md %}
 
+{% include_relative sections/recent_blogs.md %}
+
 {% include_relative sections/publications.md %}
 
 {% include_relative sections/honors.md %}
