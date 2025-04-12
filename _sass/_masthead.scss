@@ -61,4 +61,30 @@
   }
 }
 
+.blog-link {
+  display: inline-block;
+  padding: 0.5rem 1rem;
+  font-weight: 700;
+  color: $masthead-link-color;
+  
+  &:hover {
+    color: $masthead-link-color-hover;
+    
+    &:before {
+      content: "";
+      position: absolute;
+      left: 0;
+      bottom: 0;
+      height: 4px;
+      background: mix(#fff, $primary-color, 50%);
+      width: 100%;
+      -webkit-transition: $global-transition;
+      transition: $global-transition;
+      -webkit-transform: scaleX(1);
+          -ms-transform: scaleX(1);
+              transform: scaleX(1);
+    }
+  }
+}
+
 
